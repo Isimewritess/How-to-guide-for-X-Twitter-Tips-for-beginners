@@ -3,10 +3,10 @@ How-to-guide for X (Twitter): Tips for beginners.
    Are you tired of your everyday use of Facebook and Instagram? Is John’s chat getting boring on Facebook and is engaging with people on Instagram unbearable too? Let John try a new app! Here comes Twitter! Let me take you through the use of Twitter.
  
  
-Introduction.
+#Introduction.
 Twitter is a massively valuable platform for several reasons, such as; it has a large and engaged user base with over 330 million monthly active users, there is a huge potential audience for your tweets. It is a very fast-paced platform, meaning that you can quickly share information and receive feedback from others. It is a very democratic platform, where anyone can join the conversation and share their thoughts and finally, it is a great way to build relationships and create new opportunities. Twitter is a powerful social media platform that allows users to share short messages, called "tweets," with a wide audience. In this article, we'll explore the basics of how to use Twitter, from setting up an account to writing and sharing tweets.
 
-How to Sign Up on X(Twitter).
+#How to Sign Up on X(Twitter).
 Signing up for Twitter is as simple as eating pizza. That is, you do not need to go through rigorous exercises to access the application. Here are steps to take to ensure the full success of the application use.
  
 Make sure your device is compatible with Twitter: Use a compatible phone, not all phone has access to the app.
@@ -55,12 +55,12 @@ Twitter Spaces: You can have live audio conversations with your friends and othe
 
 
 
-Added Features on Twitter.
+#Added Features on Twitter.
 
 We have some features on Twitter that make the app very juicy and interesting to use. Check out the following:
 
  
-Monetization: To be eligible for monetization on Twitter, you need to set up a subscription, must be verified, and be a creator.  
+#Monetization: To be eligible for monetization on Twitter, you need to set up a subscription, must be verified, and be a creator.  
 
 Premium: A premium subscriber is subject to paying 52,900/yearly. It comes with a verified blue checkmark when approved, you get to post longer videos than a regular Twitter user, and your conversations become highly ranked.
 
